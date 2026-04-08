@@ -5,6 +5,7 @@
 # API Keys
 *-api-key.txt
 esv-api-key.txt
+bibles/esv/esv-api-key.txt
 
 # macOS
 .DS_Store
@@ -15,12 +16,35 @@ esv-api-key.txt
 *.bak3
 *.backup
 *.backup2
+bibles/esv/*.bak*
+bibles/esv/*.backup*
+bibles/esv/esv.md.backup*
 
 # Working files
 esv_working.md
 esv_clean.md
 esv_merged.md
 esv_deduped.md
+bibles/esv/esv_working.md
+bibles/esv/esv_clean.md
+bibles/esv/esv_merged.md
+bibles/esv/esv_deduped.md
 
 # Temporary files
 *.tmp
+
+# Memory logs (personal)
+memory/
+MEMORY.md
+HEARTBEAT.md
+
+# Config files
+config/
+
+# Scripts
+scripts/
+cron/
+
+# Other
+*.sh
+!run_batch*.sh
