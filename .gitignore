@@ -1,0 +1,26 @@
+# OpenClaw
+.openclaw/
+.clawhub/
+
+# API Keys
+*-api-key.txt
+esv-api-key.txt
+
+# macOS
+.DS_Store
+
+# Backups
+*.bak
+*.bak2
+*.bak3
+*.backup
+*.backup2
+
+# Working files
+esv_working.md
+esv_clean.md
+esv_merged.md
+esv_deduped.md
+
+# Temporary files
+*.tmp
