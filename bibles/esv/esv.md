@@ -47,8 +47,8 @@ PLACEHOLDER_REPLACE
 **v4** These are the generations of the heavens and the earth when they were created, in the day that the LORD God made the earth and the heavens.
 **v5** When no bush of the field was yet in the land and no small plant of the field had yet sprung up-for the LORD God had not caused it to rain on the land, and there was no man to work the ground,
 **v6** and mist was going up from the land and was watering the whole face of the ground-
-**v7** then the LORD God formed the man of dust from the ground and breathed into his nostrils the breath of life, and the man became living creature.
-**v8** And the LORD God planted garden in Eden, in the east, and there he put the man whom he had formed.
+**v7** then the LORD God formed the man of dust from the ground and breathed into his nostrils the breath of life, and the man became a living creature.
+**v8** And the LORD God planted a garden in Eden, in the east, and there he put the man whom he had formed.
 **v9** And out of the ground the LORD God made to spring up every tree that is pleasant to the sight and good for food. The tree of life was in the midst of the garden, and the tree of the knowledge of good and evil.
 **v10** A river flowed out of Eden to water the garden, and there it divided and became four rivers.
 **v11** The name of the first is the Pishon. It is the one that flowed around the whole land of Havilah, where there is gold.
@@ -58,9 +58,9 @@ PLACEHOLDER_REPLACE
 **v15** The LORD God took the man and put him in the garden of Eden to work it and keep it.
 **v16** And the LORD God commanded the man, saying, "You may surely eat of every tree of the garden,
 **v17** but of the tree of the knowledge of good and evil you shall not eat, for in the day that you eat of it you shall surely die."
-**v18** Then the LORD God said, "It is not good that the man should be alone; I will make him helper fit for him."
+**v18** Then the LORD God said, "It is not good that the man should be alone; I will make him a helper fit for him."
 **v19** Now out of the ground the LORD God had formed every beast of the field and every bird of the heavens and brought them to the man to see what he would call them. And whatever the man called every living creature, that was its name.
-**v20** The man gave names to all livestock and to the birds of the heavens and to every beast of the field. But for Adam there was not found helper fit for him.
+**v20** The man gave names to all livestock and to the birds of the heavens and to every beast of the field. But for Adam there was not found a helper fit for him.
 **v21** So the LORD God caused deep sleep to fall upon the man, and while he slept took one of his ribs and closed up its place with flesh.
 **v22** And the rib that the LORD God had taken from the man he made into woman and brought her to the man.
 **v23** Then the man said, "This at last is bone of my bones and flesh of my flesh; she shall be called Woman, because she was taken out of Man."
@@ -111,9 +111,9 @@ PLACEHOLDER_REPLACE
 **v12** When you work the ground, it shall no longer yield to you its strength. You shall be fugitive and wanderer on the earth."
 **v13** Cain said to the LORD, "My punishment is greater than I can bear.
 **v14** Behold, you have driven me today away from the ground, and from your face I shall be hidden. I shall be fugitive and wanderer on the earth, and whoever finds me will kill me."
-**v15** Then the LORD said to him, "Not so! If anyone kills Cain, vengeance shall be taken on him sevenfold." And the LORD put mark on Cain, lest any who found him should attack him.
+**v15** Then the LORD said to him, "Not so! If anyone kills Cain, vengeance shall be taken on him sevenfold." And the LORD put a mark on Cain, lest any who found him should attack him.
 **v16** Then Cain went away from the presence of the LORD and settled in the land of Nod, east of Eden.
-**v17** Cain knew his wife, and she conceived and bore Enoch. When he built city, he called the name of the city after the name of his son, Enoch.
+**v17** Cain knew his wife, and she conceived and bore Enoch. When he built a city, he called the name of the city after the name of his son, Enoch.
 **v18** To Enoch was born Irad, and Irad fathered Mehujael, and Mehujael fathered Methushael, and Methushael fathered Lamech.
 **v19** And Lamech took two wives. The name of the one was Adah, and the name of the other Zillah.
 **v20** Adah bore Jabal; he was the father of those who dwell in tents and have livestock.
@@ -121,8 +121,8 @@ PLACEHOLDER_REPLACE
 **v22** Zillah also bore Tubal-cain; he was the forger of all instruments of bronze and iron. The sister of Tubal-cain was Naamah.
 **v23** Lamech said to his wives: "Adah and Zillah, hear my voice; you wives of Lamech, listen to what I say: I have killed man for wounding me, young man for striking me.
 **v24** If Cain's revenge is sevenfold, then Lamech's is seventy-sevenfold."
-**v25** And Adam knew his wife again, and she bore son and called his name Seth, for she said, "God has appointed for me another offspring instead of Abel, for Cain killed him."
-**v26** To Seth also son was born, and he called his name Enosh. At that time people began to call upon the name of the LORD.
+**v25** And Adam knew his wife again, and she bore a son and called his name Seth, for she said, "God has appointed for me another offspring instead of Abel, for Cain killed him."
+**v26** To Seth also a son was born, and he called his name Enosh. At that time people began to call upon the name of the LORD.
 
 #### Adam's Descendants to Noah
 
@@ -183,7 +183,7 @@ PLACEHOLDER_REPLACE
 **v13** And God said to Noah, "I have determined to make an end of all flesh, for the earth is filled with violence through them. Behold, I will destroy them with the earth.
 **v14** Make yourself an ark of gopher wood. Make rooms in the ark, and cover it inside and out with pitch.
 **v15** This is how you are to make it: the length of the ark 300 cubits, its breadth 50 cubits, and its height 30 cubits.
-**v16** Make roof for the ark, and finish it to cubit above, and set the door of the ark in its side. Make it with lower, second, and third decks.
+**v16** Make a roof for the ark, and finish it to cubit above, and set the door of the ark in its side. Make it with lower, second, and third decks.
 **v17** For behold, I will bring flood of waters upon the earth to destroy all flesh in which is the breath of life under heaven. Everything that is on the earth shall die.
 **v18** But I will establish my covenant with you, and you shall come into the ark, you, your sons, your wife, and your sons' wives with you.
 **v19** And of every living thing of all flesh, you shall bring two of every sort into the ark to keep them alive with you. They shall be male and female.
@@ -227,8 +227,8 @@ PLACEHOLDER_REPLACE
 **v4** and in the seventh month, on the seventeenth day of the month, the ark came to rest on the mountains of Ararat.
 **v5** And the waters continued to abate until the tenth month; in the tenth month, on the first day of the month, the tops of the mountains were seen.
 **v6** At the end of forty days Noah opened the window of the ark that he had made
-**v7** and sent forth raven. It went to and fro until the waters were dried up from the earth.
-**v8** Then he sent forth dove from him, to see if the waters had subsided from the face of the ground.
+**v7** and sent forth a raven. It went to and fro until the waters were dried up from the earth.
+**v8** Then he sent forth a dove from him, to see if the waters had subsided from the face of the ground.
 **v9** But the dove found no place to set her foot, and she returned to him to the ark, for the waters were still on the face of the whole earth. So he put out his hand and took her and brought her into the ark with him.
 **v10** He waited another seven days, and again he sent forth the dove out of the ark.
 **v11** And the dove came back to him in the evening, and behold, in her mouth was freshly plucked olive leaf. So Noah knew that the waters had subsided from the earth.
@@ -270,10 +270,10 @@ PLACEHOLDER_REPLACE
 
 **v18** The sons of Noah who went forth from the ark were Shem, Ham, and Japheth. (Ham was the father of Canaan.)
 **v19** These three were the sons of Noah, and from these the people of the whole earth were dispersed.
-**v20** Noah began to be man of the soil, and he planted vineyard.
+**v20** Noah began to be a man of the soil, and he planted a vineyard.
 **v21** He drank of the wine and became drunk and lay uncovered in his tent.
 **v22** And Ham, the father of Canaan, saw the nakedness of his father and told his two brothers outside.
-**v23** Then Shem and Japheth took garment, laid it on both their shoulders, and walked backward and covered the nakedness of their father. Their faces were turned backward, and they did not see their father's nakedness.
+**v23** Then Shem and Japheth took a garment, laid it on both their shoulders, and walked backward and covered the nakedness of their father. Their faces were turned backward, and they did not see their father's nakedness.
 **v24** When Noah awoke from his wine and knew what his youngest son had done to him,
 **v25** he said, "Cursed be Canaan; a servant of servants shall he be to his brothers."
 **v26** He also said, "Blessed be the LORD, the God of Shem; and let Canaan be his servant.
@@ -292,8 +292,8 @@ PLACEHOLDER_REPLACE
 **v5** From these the coastland peoples spread in their lands, each with his own language, by their clans, in their nations.
 **v6** The sons of Ham: Cush, Egypt, Put, and Canaan.
 **v7** The sons of Cush: Seba, Havilah, Sabtah, Raamah, and Sabteca. The sons of Raamah: Sheba and Dedan.
-**v8** Cush fathered Nimrod; he was the first on earth to be mighty man.
-**v9** He was mighty hunter before the LORD. Therefore it is said, "Like Nimrod mighty hunter before the LORD."
+**v8** Cush fathered Nimrod; he was the first on earth to be a mighty man.
+**v9** He was a mighty hunter before the LORD. Therefore it is said, "Like Nimrod a mighty hunter before the LORD."
 **v10** The beginning of his kingdom was Babel, Erech, Accad, and Calneh, in the land of Shinar.
 **v11** From that land he went into Assyria and built Nineveh, Rehoboth-Ir, Calah, and
 **v12** Resen between Nineveh and Calah; that is the great city.
@@ -507,8 +507,8 @@ PLACEHOLDER_REPLACE
 **v34** The next day, the firstborn said to the younger, "Behold, I lay last night with my father. Let us make him drink wine tonight also. Then you go in and lie with him, that we may preserve offspring from our father."
 **v35** So they made their father drink wine that night also. And the younger arose and lay with him, and he did not know when she lay down or when she arose.
 **v36** Thus both the daughters of Lot became pregnant by their father.
-**v37** The firstborn bore son and called his name Moab. He is the father of the Moabites to this day.
-**v38** The younger also bore son and called his name Ben-ammi. He is the father of the Ammonites to this day. Abraham and Abimelech
+**v37** The firstborn bore a son and called his name Moab. He is the father of the Moabites to this day.
+**v38** The younger also bore a son and called his name Ben-ammi. He is the father of the Ammonites to this day. Abraham and Abimelech
 ### Chapter 20
 
 **v1** From there Abraham journeyed toward the territory of the Negeb and lived between Kadesh and Shur; and he sojourned in Gerar.
@@ -1628,8 +1628,8 @@ PLACEHOLDER_REPLACE
 
 ### Chapter 2
 
-**v1** Now man from the house of Levi went and took as his wife Levite woman.
-**v2** The woman conceived and bore son, and when she saw that he was fine child, she hid him three months.
+**v1** Now a man from the house of Levi went and took as his wife a Levite woman.
+**v2** The woman conceived and bore a son, and when she saw that he was a fine child, she hid him three months.
 **v3** When she could hide him no longer, she took for him basket made of bulrushes and daubed it with bitumen and pitch. She put the child in it and placed it among the reeds by the river bank.
 **v4** And his sister stood at distance to know what would be done to him.
 **v5** Now the daughter of Pharaoh came down to bathe at the river, while her young women walked beside the river. She saw the basket among the reeds and sent her servant woman, and she took it.
@@ -7731,7 +7731,7 @@ PLACEHOLDER_REPLACE
 **v9** The LORD grant that you may find rest, each of you in the house of her husband!" Then she kissed them, and they lifted up their voices and wept.
 **v10** And they said to her, "No, we will return with you to your people."
 **v11** But Naomi said, "Turn back, my daughters; why will you go with me? Have I yet sons in my womb that they may become your husbands?
-**v12** Turn back, my daughters; go your way, for I am too old to have husband. If I should say I have hope, even if I should have husband this night and should bear sons,
+**v12** Turn back, my daughters; go your way, for I am too old to have a husband. If I should say I have hope, even if I should have a husband this night and should bear sons,
 **v13** would you therefore wait till they were grown? Would you therefore refrain from marrying? No, my daughters, for it is exceedingly bitter to me for your sake that the hand of the LORD has gone out against me."
 **v14** Then they lifted up their voices and wept again. And Orpah kissed her mother-in-law, but Ruth clung to her.
 **v15** And she said, "See, your sister-in-law has gone back to her people and to her gods; return after your sister-in-law."
@@ -7827,14 +7827,14 @@ PLACEHOLDER_REPLACE
 **v10** She was deeply distressed and prayed to the LORD and wept bitterly.
 **v11** And she vowed vow and said, "O LORD of hosts, if you will indeed look on the affliction of your servant and remember me and not forget your servant, but will give to your servant son, then I will give him to the LORD all the days of his life, and no razor shall touch his head."
 **v12** As she continued praying before the LORD, Eli observed her mouth.
-**v13** Hannah was speaking in her heart; only her lips moved, and her voice was not heard. Therefore Eli took her to be drunken woman.
+**v13** Hannah was speaking in her heart; only her lips moved, and her voice was not heard. Therefore Eli took her to be a drunken woman.
 **v14** And Eli said to her, "How long will you go on being drunk? Put your wine away from you."
-**v15** But Hannah answered, "No, my lord, I am woman troubled in spirit. I have drunk neither wine nor strong drink, but I have been pouring out my soul before the LORD.
+**v15** But Hannah answered, "No, my lord, I am a woman troubled in spirit. I have drunk neither wine nor strong drink, but I have been pouring out my soul before the LORD.
 **v16** Do not regard your servant as a worthless woman, for all along I have been speaking out of my great anxiety and vexation."
 **v17** Then Eli answered, "Go in peace, and the God of Israel grant your petition that you have made to him."
 **v18** And she said, "Let your servant find favor in your eyes." Then the woman went her way and ate, and her face was no longer sad.
 **v19** They rose early in the morning and worshiped before the LORD; then they went back to their house at Ramah. And Elkanah knew Hannah his wife, and the LORD remembered her.
-**v20** And in due time Hannah conceived and bore son, and she called his name Samuel, for she said, "I have asked for him from the LORD." Samuel Given to the LORD
+**v20** And in due time Hannah conceived and bore a son, and she called his name Samuel, for she said, "I have asked for him from the LORD." Samuel Given to the LORD
 **v21** The man Elkanah and all his house went up to offer to the LORD the yearly sacrifice and to pay his vow.
 **v22** But Hannah did not go up, for she said to her husband, "As soon as the child is weaned, I will bring him, so that he may appear in the presence of the LORD and dwell there forever."
 **v23** Elkanah her husband said to her, "Do what seems best to you; wait until you have weaned him; only, may the LORD establish his word." So the woman remained and nursed her son until she weaned him.
@@ -9038,8 +9038,8 @@ PLACEHOLDER_REPLACE
 **v21** Then his servants said to him, "What is this thing that you have done? You fasted and wept for the child while he was alive; but when the child died, you arose and ate food."
 **v22** He said, "While the child was still alive, I fasted and wept, for I said, 'Who knows whether the LORD will be gracious to me, that the child may live?'
 **v23** But now he is dead. Why should I fast? Can I bring him back again? I shall go to him, but he will not return to me." Solomon's Birth
-**v24** Then David comforted his wife, Bathsheba, and went in to her and lay with her, and she bore son, and he called his name Solomon. And the LORD loved him
-**v25** and sent message by Nathan the prophet. So he called his name Jedidiah, because of the LORD. Rabbah Is Captured
+**v24** Then David comforted his wife, Bathsheba, and went in to her and lay with her, and she bore a son, and he called his name Solomon. And the LORD loved him
+**v25** and sent a message by Nathan the prophet. So he called his name Jedidiah, because of the LORD. Rabbah Is Captured
 **v26** Now Joab fought against Rabbah of the Ammonites and took the royal city.
 **v27** And Joab sent messengers to David and said, "I have fought against Rabbah; moreover, I have taken the city of waters.
 **v28** Now then gather the rest of the people together and encamp against the city and take it, lest I take the city and it be called by my name."
@@ -9195,12 +9195,12 @@ PLACEHOLDER_REPLACE
 **v5** Then Absalom said, "Call Hushai the Archite also, and let us hear what he has to say."
 **v6** And when Hushai came to Absalom, Absalom said to him, "Thus has Ahithophel spoken; shall we do as he says? If not, you speak."
 **v7** Then Hushai said to Absalom, "This time the counsel that Ahithophel has given is not good."
-**v8** Hushai said, "You know that your father and his men are mighty men, and that they are enraged, like bear robbed of her cubs in the field. Besides, your father is expert in war; he will not spend the night with the people.
+**v8** Hushai said, "You know that your father and his men are mighty men, and that they are enraged, like a bear robbed of her cubs in the field. Besides, your father is expert in war; he will not spend the night with the people.
 **v9** Behold, even now he has hidden himself in one of the pits or in some other place. And as soon as some of the people fall at the first attack, whoever hears it will say, 'There has been slaughter among the people who follow Absalom.'
-**v10** Then even the valiant man, whose heart is like the heart of lion, will utterly melt with fear, for all Israel knows that your father is mighty man, and that those who are with him are valiant men.
+**v10** Then even the valiant man, whose heart is like the heart of a lion, will utterly melt with fear, for all Israel knows that your father is a mighty man, and that those who are with him are valiant men.
 **v11** But my counsel is that all Israel be gathered to you, from Dan to Beersheba, as the sand by the sea for multitude, and that you go to battle in person.
 **v12** So we shall come upon him in some place where he is to be found, and we shall light upon him as the dew falls on the ground, and of him and all the men with him not one will be left.
-**v13** If he withdraws into city, then all Israel will bring ropes to that city, and we shall drag it into the valley, until not even pebble is to be found there."
+**v13** If he withdraws into a city, then all Israel will bring ropes to that city, and we shall drag it into the valley, until not even a pebble is to be found there."
 **v14** And Absalom and all the men of Israel said, "The counsel of Hushai the Archite is better than the counsel of Ahithophel." For the LORD had ordained to defeat the good counsel of Ahithophel, so that the LORD might bring harm upon Absalom.
 **v15** Then Hushai said to Zadok and Abiathar the priests, "Thus and so did Ahithophel counsel Absalom and the elders of Israel, and thus and so have I counseled.
 **v16** Now therefore send quickly and tell David, 'Do not stay tonight at the fords of the wilderness, but by all means pass over, lest the king and all the people who are with him be swallowed up.'"
@@ -11130,7 +11130,7 @@ PLACEHOLDER_REPLACE
 **v7** The sons of Javan: Elishah, Tarshish, Kittim, and Rodanim.
 **v8** The sons of Ham: Cush, Egypt, Put, and Canaan.
 **v9** The sons of Cush: Seba, Havilah, Sabta, Raama, and Sabteca. The sons of Raamah: Sheba and Dedan.
-**v10** Cush fathered Nimrod. He was the first on earth to be mighty man.
+**v10** Cush fathered Nimrod. He was the first on earth to be a mighty man.
 **v11** Egypt fathered Ludim, Anamim, Lehabim, Naphtuhim,
 **v12** Pathrusim, Casluhim (from whom the Philistines came), and Caphtorim.
 **v13** Canaan fathered Sidon his firstborn and Heth,
@@ -11430,15 +11430,15 @@ PLACEHOLDER_REPLACE
 **v12** And Shuppim and Huppim were the sons of Ir, Hushim the son of Aher. Descendants of Naphtali
 **v13** The sons of Naphtali: Jahziel, Guni, Jezer and Shallum, the descendants of Bilhah. Descendants of Manasseh
 **v14** The sons of Manasseh: Asriel, whom his Aramean concubine bore; she bore Machir the father of Gilead.
-**v15** And Machir took wife for Huppim and for Shuppim. The name of his sister was Maacah. And the name of the second was Zelophehad, and Zelophehad had daughters.
-**v16** And Maacah the wife of Machir bore son, and she called his name Peresh; and the name of his brother was Sheresh; and his sons were Ulam and Rakem.
+**v15** And Machir took a wife for Huppim and for Shuppim. The name of his sister was Maacah. And the name of the second was Zelophehad, and Zelophehad had daughters.
+**v16** And Maacah the wife of Machir bore a son, and she called his name Peresh; and the name of his brother was Sheresh; and his sons were Ulam and Rakem.
 **v17** The son of Ulam: Bedan. These were the sons of Gilead the son of Machir, son of Manasseh.
 **v18** And his sister Hammolecheth bore Ishhod, Abiezer and Mahlah.
 **v19** The sons of Shemida were Ahian, Shechem, Likhi, and Aniam. Descendants of Ephraim
 **v20** The sons of Ephraim: Shuthelah, and Bered his son, Tahath his son, Eleadah his son, Tahath his son,
 **v21** Zabad his son, Shuthelah his son, and Ezer and Elead, whom the men of Gath who were born in the land killed, because they came down to raid their livestock.
 **v22** And Ephraim their father mourned many days, and his brothers came to comfort him.
-**v23** And Ephraim went in to his wife, and she conceived and bore son. And he called his name Beriah, because disaster had befallen his house.
+**v23** And Ephraim went in to his wife, and she conceived and bore a son. And he called his name Beriah, because disaster had befallen his house.
 **v24** His daughter was Sheerah, who built both Lower and Upper Beth-horon, and Uzzen- sheerah.
 **v25** Rephah was his son, Resheph his son, Telah his son, Tahan his son,
 **v26** Ladan his son, Ammihud his son, Elishama his son,
@@ -23770,7 +23770,7 @@ PLACEHOLDER_REPLACE
 **v11** "Ask a sign of the LORD your God; let it be deep as Sheol or high as heaven."
 **v12** But Ahaz said, "I will not ask, and I will not put the LORD to the test."
 **v13** And he said, "Hear then, O house of David! Is it too little for you to weary men, that you weary my God also?
-**v14** Therefore the Lord himself will give you sign. Behold, the virgin shall conceive and bear son, and shall call his name Immanuel.
+**v14** Therefore the Lord himself will give you a sign. Behold, the virgin shall conceive and bear a son, and shall call his name Immanuel.
 **v15** He shall eat curds and honey when he knows how to refuse the evil and choose the good.
 **v16** For before the boy knows how to refuse the evil and choose the good, the land whose two kings you dread will be deserted.
 **v17** The LORD will bring upon you and upon your people and upon your father's house such days as have not come since the day that Ephraim departed from Judah-the king of Assyria."
@@ -23784,9 +23784,9 @@ PLACEHOLDER_REPLACE
 **v25** And as for all the hills that used to be hoed with hoe, you will not come there for fear of briers and thorns, but they will become place where cattle are let loose and where sheep tread. The Coming Assyrian Invasion
 ### Chapter 8
 
-**v1** Then the LORD said to me, "Take large tablet and write on it in common characters, 'Belonging to Maher-shalal-hash-baz.'
+**v1** Then the LORD said to me, "Take a large tablet and write on it in common characters, 'Belonging to Maher-shalal-hash-baz.'
 **v2** And I will get reliable witnesses, Uriah the priest and Zechariah the son of Jeberechiah, to attest for me."
-**v3** And I went to the prophetess, and she conceived and bore son. Then the LORD said to me, "Call his name Maher-shalal-hash-baz;
+**v3** And I went to the prophetess, and she conceived and bore a son. Then the LORD said to me, "Call his name Maher-shalal-hash-baz;
 **v4** for before the boy knows how to cry 'My father' or 'My mother,' the wealth of Damascus and the spoil of Samaria will be carried away before the king of Assyria."
 **v5** The LORD spoke to me again:
 **v6** "Because this people has refused the waters of Shiloah that flow gently, and rejoice over Rezin and the son of Remaliah,
@@ -31918,9 +31918,9 @@ PLACEHOLDER_REPLACE
 **v3** So he went and took Gomer, the daughter of Diblaim, and she conceived and bore him a son.
 **v4** And the LORD said to him, "Call his name Jezreel, for in just little while I will punish the house of Jehu for the blood of Jezreel, and I will put an end to the kingdom of the house of Israel.
 **v5** And on that day I will break the bow of Israel in the Valley of Jezreel."
-**v6** She conceived again and bore daughter. And the LORD said to him, "Call her name No Mercy, for I will no more have mercy on the house of Israel, to forgive them at all.
+**v6** She conceived again and bore a daughter. And the LORD said to him, "Call her name No Mercy, for I will no more have mercy on the house of Israel, to forgive them at all.
 **v7** But I will have mercy on the house of Judah, and I will save them by the LORD their God. I will not save them by bow or by sword or by war or by horses or by horsemen."
-**v8** When she had weaned No Mercy, she conceived and bore son.
+**v8** When she had weaned No Mercy, she conceived and bore a son.
 **v9** And the LORD said, "Call his name Not My People, for you are not my people, and I am not your God."
 **v10** Yet the number of the children of Israel shall be like the sand of the sea, which cannot be measured or numbered. And in the place where it was said to them, "You are not my people," it shall be said to them, "Children of the living God."
 **v11** And the children of Judah and the children of Israel shall be gathered together, and they shall appoint for themselves one head. And they shall go up from the land, for great shall be the day of Jezreel.
@@ -34142,13 +34142,13 @@ PLACEHOLDER_REPLACE
 #### The Birth of Jesus Christ
 
 **v18** Now the birth of Jesus Christ took place in this way. When his mother Mary had been betrothed to Joseph, before they came together she was found to be with child from the Holy Spirit.
-**v19** And her husband Joseph, being just man and unwilling to put her to shame, resolved to divorce her quietly.
-**v20** But as he considered these things, behold, an angel of the Lord appeared to him in dream, saying, "Joseph, son of David, do not fear to take Mary as your wife, for that which is conceived in her is from the Holy Spirit.
-**v21** She will bear son, and you shall call his name Jesus, for he will save his people from their sins."
+**v19** And her husband Joseph, being a just man and unwilling to put her to shame, resolved to divorce her quietly.
+**v20** But as he considered these things, behold, an angel of the Lord appeared to him in a dream, saying, "Joseph, son of David, do not fear to take Mary as your wife, for that which is conceived in her is from the Holy Spirit.
+**v21** She will bear a son, and you shall call his name Jesus, for he will save his people from their sins."
 **v22** All this took place to fulfill what the Lord had spoken by the prophet:
-**v23** "Behold, the virgin shall conceive and bear son, and they shall call his name Immanuel" (which means, God with us).
+**v23** "Behold, the virgin shall conceive and bear a son, and they shall call his name Immanuel" (which means, God with us).
 **v24** When Joseph woke from sleep, he did as the angel of the Lord commanded him: he took his wife,
-**v25** but knew her not until she had given birth to son. And he called his name Jesus.
+**v25** but knew her not until she had given birth to a son. And he called his name Jesus.
 
 #### The Visit of the Wise Men
 
@@ -40066,8 +40066,8 @@ PLACEHOLDER_REPLACE
 **v8** Love never ends. As for prophecies, they will pass away; as for tongues, they will cease; as for knowledge, it will pass away.
 **v9** For we know in part and we prophesy in part,
 **v10** but when the perfect comes, the partial will pass away.
-**v11** When I was child, I spoke like child, I thought like child, I reasoned like child. When I became man, I gave up childish ways.
-**v12** For now we see in mirror dimly, but then face to face. Now I know in part; then I shall know fully, even as I have been fully known.
+**v11** When I was a child, I spoke like a child, I thought like a child, I reasoned like a child. When I became a man, I gave up childish ways.
+**v12** For now we see in a mirror dimly, but then face to face. Now I know in part; then I shall know fully, even as I have been fully known.
 **v13** So now faith, hope, and love abide, these three; but the greatest of these is love. Prophecy and Tongues
 ### Chapter 14
 
