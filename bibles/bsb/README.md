@@ -11,17 +11,38 @@ A complete copy of the **Berean Standard Bible** — a free, open-source English
 
 ## Files
 
-- `bsb.md` — The complete Bible (66 books, 1,189 chapters, ~31,000 verses)
+### Main Bible Files
+
+| File | Description | Use Case |
+|------|-------------|----------|
+| `bsb.md` | Complete Bible with footnotes and cross-references | Study, research, detailed reading |
+| `bsb-nofootnotes.md` | Clean Bible text only (no footnotes) | Reading, devotional, text-to-speech |
+
+Both versions include:
+- All 66 books
+- ~31,000 verses
+- Chapter and section headers
+- Straight quotes (ASCII) for compatibility
+
+### Other Files
+
 - `LICENSE` — Full license text (CC BY-SA 4.0)
 - `README.md` — This file
 
 ## How to Use
 
-Place `bsb.md` in your agent's workspace and ask questions like:
-
+### For Study & Research
+Use `bsb.md` with footnotes for:
 - "What does BSB say about faith?"
 - "Read Genesis 1:1-5 from BSB"
-- "Find all verses about grace in BSB"
+- "Explain the footnote on John 3:16"
+
+### For Reading & Devotional
+Use `bsb-nofootnotes.md` for:
+- Clean reading without interruptions
+- Text-to-speech (no footnote markers read aloud)
+- Quick verse lookup
+- Copy-paste clean text
 
 ## Attribution
 
